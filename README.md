@@ -14,7 +14,7 @@
     />
   </a>
 
-  <h3 align="center">SOLUTION to HackerRank Problem-Solving Challenges.</h3>
+  <h3 align="center">SOLUTION to HackerRank Problem-Solving Challenges</h3>
 
   <p align="center">
     Awesome JavaScript / C++ solutions to help improve your problem-solving skill!
