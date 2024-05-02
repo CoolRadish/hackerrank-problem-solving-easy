@@ -28,12 +28,10 @@ Email - coool.radish.x@gmail.com
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/badge/contributors-2-green?style=for-the-badge
-[contributors-url]: https://github.com/CoolRadish/hackerrank-problem-solving/graphs/contributors
+[contributors-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/graphs/contributors
 [forks-shield]: https://img.shields.io/badge/forks-0-blue?style=for-the-badge
-[forks-url]: https://github.com/CoolRadish/hackerrank-problem-solving/network/members
+[forks-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/network/members
 [stars-shield]: https://img.shields.io/badge/stars-0-blue?style=for-the-badge
-[stars-url]: https://github.com/CoolRadish/hackerrank-problem-solving/stargazers
-[issues-shield]: https://img.shields.io/badge/issues-563%20open-orange?style=for-the-badge
-[issues-url]: https://github.com/CoolRadish/hackerrank-problem-solving/issues
-
-# hackerrank-problem-solving-easy
+[stars-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/stargazers
+[issues-shield]: https://img.shields.io/badge/issues-1%20open-orange?style=for-the-badge
+[issues-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/issues
