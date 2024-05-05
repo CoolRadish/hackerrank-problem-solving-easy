@@ -1,3 +1,6 @@
+/**
+ * Time complexity - O(|a|)
+ */
 function compareTriplets(a, b) {
   let [alice, bob] = [0, 0];
 
