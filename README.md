@@ -33,5 +33,5 @@ Email - coool.radish.x@gmail.com
 [forks-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/network/members
 [stars-shield]: https://img.shields.io/badge/stars-0-blue?style=for-the-badge
 [stars-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/stargazers
-[issues-shield]: https://img.shields.io/badge/issues-1%20open-orange?style=for-the-badge
+[issues-shield]: https://img.shields.io/badge/issues-6%20open-orange?style=for-the-badge
 [issues-url]: https://github.com/CoolRadish/hackerrank-problem-solving-easy/issues
