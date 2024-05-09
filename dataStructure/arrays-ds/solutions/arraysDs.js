@@ -2,9 +2,11 @@
  * Time complexity - O(|a|)
  */
 function reverseArray(a) {
-  const b = [];
-  for (let i = a.length - 1; i >= 0; i--) {
-    b.push(a[i]);
+  let b;
+  for (let i = a.length - 1; i >= a.length / 2; i--) {
+    b = a[a.length - i - 1];
+    a[a.length - i - 1] = a[i];
+    a[i] = b;
   }
-  return b;
+  return a;
 }
